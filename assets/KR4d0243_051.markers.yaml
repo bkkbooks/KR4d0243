@@ -179,6 +179,7 @@ markers:
   - {type: line-break, offset: 583, content: '', id: KR4d0243_SBCK_051-2b05}
   - {type: punctuation, offset: 583, content: (, id: KR4d0243_krp_051-bkkpn1}
   - {type: variant, offset: 583, length: 11, content: 桓字皆作威今更正後同案, WYG: ''}
+  - {type: voice, offset: 583, length: 20, name: note, id: n1}
   - {type: punctuation, offset: 593, content: /, id: KR4d0243_krp_051-bkkpn2}
   - {type: page-break, offset: 594, content: '', id: KR4d0243_WYG_051-3a, image: WYG1152/WYG1152-0792a.png}
   - {type: punctuation, offset: 603, content: ), id: KR4d0243_krp_051-bkkpn3}
@@ -523,6 +524,7 @@ markers:
   - {type: line-break, offset: 1843, content: '', id: KR4d0243_SBCK_051-6a03}
   - {type: punctuation, offset: 1847, content: (, id: KR4d0243_krp_051-bkkpn4}
   - {type: variant, offset: 1847, length: 0, content: '', WYG: 前篇書名}
+  - {type: voice, offset: 1847, length: 10, name: note, id: n2}
   - {type: punctuation, offset: 1852, content: /, id: KR4d0243_krp_051-bkkpn5}
   - {type: variant, offset: 1852, length: 5, content: 案前篇書名, WYG: ''}
   - {type: punctuation, offset: 1857, content: ), id: KR4d0243_krp_051-bkkpn6}
@@ -1984,4 +1986,4 @@ markers:
 
       ', id: KR4d0243_krp_051-bkkkrnewl405}
   back: []
-hash: sha256:32776e660a6b509001658e13234fcea881495302e0a507903bbd608edd6337e0
+hash: sha256:64285f0423b678341afdb7db4d59554998debcea3776265c34e4f4e85d741cc2

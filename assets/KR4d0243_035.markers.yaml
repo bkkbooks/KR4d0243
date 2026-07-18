@@ -121,6 +121,7 @@ markers:
   - {type: line-break, offset: 293, content: '', id: KR4d0243_SBCK_035-2a03}
   - {type: substitution, offset: 302, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
   - {type: punctuation, offset: 303, content: (, id: KR4d0243_krp_035-bkkpn1}
+  - {type: voice, offset: 303, length: 21, name: note, id: n1}
   - {type: variant, offset: 304, length: 10, content: 用之一本改倫為掄非案, WYG: ''}
   - {type: punctuation, offset: 313, content: /, id: KR4d0243_krp_035-bkkpn2}
   - {type: punctuation, offset: 324, content: ), id: KR4d0243_krp_035-bkkpn3}
@@ -344,6 +345,7 @@ markers:
       ', id: KR4d0243_krp_035-bkkkrnewl67}
   - {type: line-break, offset: 1014, content: '', id: KR4d0243_SBCK_035-4a08}
   - {type: punctuation, offset: 1019, content: (, id: KR4d0243_krp_035-bkkpn4}
+  - {type: voice, offset: 1019, length: 31, name: note, id: n2}
   - {type: variant, offset: 1020, length: 0, content: '', WYG: 蜜本諸晉書山濤傳所云云蜜印是集}
   - {type: variant, offset: 1027, length: 1, content: 密, WYG: 宻}
   - {type: punctuation, offset: 1034, content: /, id: KR4d0243_krp_035-bkkpn5}
@@ -371,6 +373,7 @@ markers:
   - {type: indent, offset: 1089, content: 　　, id: KR4d0243_krp_035-bkkind18}
   - {type: punctuation, offset: 1090, content: (, id: KR4d0243_krp_035-bkkpn7}
   - {type: variant, offset: 1090, length: 0, content: '', WYG: 元係林大中辟差大中}
+  - {type: voice, offset: 1090, length: 18, name: note, id: n3}
   - {type: punctuation, offset: 1099, content: /, id: KR4d0243_krp_035-bkkpn8}
   - {type: variant, offset: 1099, length: 9, content: 元係林大中辟差大中, WYG: ''}
   - {type: punctuation, offset: 1108, content: ), id: KR4d0243_krp_035-bkkpn9}
@@ -851,6 +854,7 @@ markers:
   - {type: variant, offset: 2631, length: 7, content: 之新邑邦卑大名, WYG: ''}
   - {type: punctuation, offset: 2634, content: (, id: KR4d0243_krp_035-bkkpn10}
   - {type: variant, offset: 2634, length: 1, content: 邦, SBCK: 􅀖}
+  - {type: voice, offset: 2634, length: 14, name: note, id: n4}
   - {type: variant, offset: 2635, length: 1, content: 卑, SBCK: 􅂌}
   - {type: punctuation, offset: 2641, content: /, id: KR4d0243_krp_035-bkkpn11}
   - {type: punctuation, offset: 2648, content: ), id: KR4d0243_krp_035-bkkpn12}
@@ -1425,6 +1429,7 @@ markers:
   - {type: indent, offset: 4399, content: 　　, id: KR4d0243_krp_035-bkkind51}
   - {type: punctuation, offset: 4417, content: (, id: KR4d0243_krp_035-bkkpn13}
   - {type: variant, offset: 4417, length: 0, content: '', WYG: 修}
+  - {type: voice, offset: 4417, length: 15, name: note, id: n5}
   - {type: punctuation, offset: 4418, content: /, id: KR4d0243_krp_035-bkkpn14}
   - {type: variant, offset: 4418, length: 7, content: 修軍統制李郁同, WYG: ''}
   - {type: punctuation, offset: 4419, content: ), id: KR4d0243_krp_035-bkkpn15}
@@ -1443,6 +1448,7 @@ markers:
   - {type: variant, offset: 4433, length: 1, content: 具, WYG: 其}
   - {type: punctuation, offset: 4445, content: (, id: KR4d0243_krp_035-bkkpn19}
   - {type: variant, offset: 4445, length: 2, content: 陪都, WYG: ''}
+  - {type: voice, offset: 4445, length: 5, name: note, id: n6}
   - {type: punctuation, offset: 4447, content: /, id: KR4d0243_krp_035-bkkpn20}
   - {type: punctuation, offset: 4450, content: ), id: KR4d0243_krp_035-bkkpn21}
   - {type: variant, offset: 4450, length: 0, content: '', WYG: 陪都}
@@ -1946,6 +1952,7 @@ markers:
   - {type: page-break, offset: 6062, content: '', id: KR4d0243_WYG_035-22b, image: WYG1152/WYG1152-0634d.png}
   - {type: punctuation, offset: 6076, content: (, id: KR4d0243_krp_035-bkkpn22}
   - {type: variant, offset: 6076, length: 7, content: 著密勿禁途三輔, WYG: ''}
+  - {type: voice, offset: 6076, length: 30, name: note, id: n7}
   - {type: punctuation, offset: 6083, content: /, id: KR4d0243_krp_035-bkkpn23}
   - {type: punctuation, offset: 6090, content: ), id: KR4d0243_krp_035-bkkpn24}
   - {type: 'kr:newline', offset: 6090, content: '
@@ -2270,6 +2277,7 @@ markers:
   - {type: variant, offset: 7011, length: 1, content: 邦, SBCK: 􅀖}
   - {type: substitution, offset: 7014, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 7019, content: (, id: KR4d0243_krp_035-bkkpn28}
+  - {type: voice, offset: 7019, length: 19, name: note, id: n8}
   - {type: variant, offset: 7020, length: 0, content: '', WYG: 此稱蜀漢昭烈}
   - {type: punctuation, offset: 7026, content: /, id: KR4d0243_krp_035-bkkpn29}
   - {type: variant, offset: 7026, length: 9, content: 案此稱蜀漢昭烈作元, WYG: ''}
@@ -2617,4 +2625,4 @@ markers:
 
       ', id: KR4d0243_krp_035-bkkkrnewl511}
   back: []
-hash: sha256:3c283e87becba4176bbe231ce31ef038be5989e170f93f448975a173aa75cd1a
+hash: sha256:d10314421eb1272e8cd5f2a3ab715e06bf01e8c13b0ed608701d7ec4465e3e0d

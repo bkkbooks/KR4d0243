@@ -372,6 +372,7 @@ markers:
   - {type: line-break, offset: 1393, content: '', id: KR4d0243_SBCK_095-4b08}
   - {type: substitution, offset: 1407, original: 㓙, replacement: 凶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20154}}
   - {type: punctuation, offset: 1411, content: (, id: KR4d0243_krp_095-bkkpn1}
+  - {type: voice, offset: 1411, length: 12, name: note, id: n1}
   - {type: variant, offset: 1412, length: 0, content: '', WYG: 尼雅}
   - {type: punctuation, offset: 1414, content: /, id: KR4d0243_krp_095-bkkpn2}
   - {type: variant, offset: 1414, length: 1, content: 案, WYG: 粘}
@@ -558,6 +559,7 @@ markers:
   - {type: line-break, offset: 2113, content: '', id: KR4d0243_SBCK_095-6b06}
   - {type: punctuation, offset: 2131, content: (, id: KR4d0243_krp_095-bkkpn7}
   - {type: variant, offset: 2131, length: 0, content: '', WYG: 按烏珠}
+  - {type: voice, offset: 2131, length: 11, name: note, id: n2}
   - {type: punctuation, offset: 2134, content: /, id: KR4d0243_krp_095-bkkpn8}
   - {type: variant, offset: 2134, length: 5, content: 案烏珠後同, WYG: ''}
   - {type: punctuation, offset: 2137, content: ), id: KR4d0243_krp_095-bkkpn9}
@@ -620,6 +622,7 @@ markers:
   - {type: line-break, offset: 2328, content: '', id: KR4d0243_SBCK_095-7a07}
   - {type: punctuation, offset: 2345, content: (, id: KR4d0243_krp_095-bkkpn13}
   - {type: variant, offset: 2345, length: 0, content: '', WYG: 按達蘭舊}
+  - {type: voice, offset: 2345, length: 11, name: note, id: n3}
   - {type: punctuation, offset: 2349, content: /, id: KR4d0243_krp_095-bkkpn14}
   - {type: variant, offset: 2349, length: 5, content: 案達蘭舊同, WYG: ''}
   - {type: punctuation, offset: 2353, content: ), id: KR4d0243_krp_095-bkkpn15}
@@ -2474,4 +2477,4 @@ markers:
 
       ', id: KR4d0243_krp_095-bkkkrnewl525}
   back: []
-hash: sha256:6ca29aada6d425e8e8248f6f125b4bbdb93d28088732660b6bc64996c68e6f3c
+hash: sha256:78adef373d10263f443bd7b25c420a2ca12061d9fb536066528e7ac981b6480c

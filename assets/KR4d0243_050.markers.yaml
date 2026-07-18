@@ -47,6 +47,7 @@ markers:
   - {type: line-break, offset: 72, content: '', id: KR4d0243_SBCK_050-1a08}
   - {type: punctuation, offset: 72, content: (, id: KR4d0243_krp_050-bkkpn1}
   - {type: page-break, offset: 72, content: '', id: KR4d0243_WYG_050-1b, image: WYG1152/WYG1152-0786b.png}
+  - {type: voice, offset: 72, length: 180, name: note, id: n1}
   - {type: variant, offset: 73, length: 0, content: '', WYG: 舊唐書李絳傳不載此新唐書載絳見浴堂殿帝曰}
   - {type: punctuation, offset: 93, content: /, id: KR4d0243_krp_050-bkkpn2}
   - {type: variant, offset: 93, length: 42, content: 案舊唐書李絳傳不載此新唐書載絳見浴堂殿帝曰拒諫亡夫人臣進言于上豈易哉君尊如天臣卑如地, WYG: ''}
@@ -101,6 +102,7 @@ markers:
   - {type: line-break, offset: 288, content: '', id: KR4d0243_SBCK_050-1b05}
   - {type: punctuation, offset: 294, content: (, id: KR4d0243_krp_050-bkkpn16}
   - {type: variant, offset: 294, length: 0, content: '', WYG: 舊唐書憲宗本紀元和二年十二月}
+  - {type: voice, offset: 294, length: 82, name: note, id: n2}
   - {type: punctuation, offset: 309, content: /, id: KR4d0243_krp_050-bkkpn17}
   - {type: variant, offset: 309, length: 15, content: 案舊唐書憲宗本紀元和二年十二月, WYG: 行事少有過差諫臣論諍往復數四况朕之寡昧涉道}
   - {type: punctuation, offset: 324, content: ), id: KR4d0243_krp_050-bkkpn18}
@@ -152,6 +154,7 @@ markers:
       ', id: KR4d0243_krp_050-bkkkrnewl23}
   - {type: line-break, offset: 481, content: '', id: KR4d0243_SBCK_050-2a04}
   - {type: punctuation, offset: 488, content: (, id: KR4d0243_krp_050-bkkpn25}
+  - {type: voice, offset: 488, length: 23, name: note, id: n3}
   - {type: variant, offset: 489, length: 11, content: 證貞觀作正觀今竝更正案, WYG: ''}
   - {type: substitution, offset: 496, original: 竝, replacement: 並, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16390}}
   - {type: punctuation, offset: 499, content: /, id: KR4d0243_krp_050-bkkpn26}
@@ -245,6 +248,7 @@ markers:
   - {type: substitution, offset: 805, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 808, content: (, id: KR4d0243_krp_050-bkkpn28}
   - {type: variant, offset: 808, length: 0, content: '', WYG: 九年舊本訛八年}
+  - {type: voice, offset: 808, length: 16, name: note, id: n4}
   - {type: punctuation, offset: 816, content: /, id: KR4d0243_krp_050-bkkpn29}
   - {type: variant, offset: 816, length: 8, content: 案九年舊本訛八年, WYG: ''}
   - {type: punctuation, offset: 824, content: ), id: KR4d0243_krp_050-bkkpn30}
@@ -284,6 +288,7 @@ markers:
   - {type: line-break, offset: 950, content: '', id: KR4d0243_SBCK_050-3a09}
   - {type: substitution, offset: 969, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19982}}
   - {type: punctuation, offset: 970, content: (, id: KR4d0243_krp_050-bkkpn31}
+  - {type: voice, offset: 970, length: 14, name: note, id: n5}
   - {type: punctuation, offset: 971, content: /, id: KR4d0243_krp_050-bkkpn32}
   - {type: variant, offset: 971, length: 1, content: 案, WYG: 舊本訛追今據}
   - {type: punctuation, offset: 972, content: ), id: KR4d0243_krp_050-bkkpn33}
@@ -463,6 +468,7 @@ markers:
   - {type: variant, offset: 1549, length: 1, content: 玄, SBCK: 􅀇}
   - {type: variant, offset: 1549, length: 1, content: 玄, WYG: 𤣥}
   - {type: punctuation, offset: 1556, content: (, id: KR4d0243_krp_050-bkkpn37}
+  - {type: voice, offset: 1556, length: 51, name: note, id: n6}
   - {type: punctuation, offset: 1557, content: /, id: KR4d0243_krp_050-bkkpn38}
   - {type: variant, offset: 1557, length: 22, content: 案者皆應執奏毋得阿從云云竝載在貞觀四年七月與, WYG: ''}
   - {type: punctuation, offset: 1558, content: ), id: KR4d0243_krp_050-bkkpn39}
@@ -894,4 +900,4 @@ markers:
 
       ', id: KR4d0243_krp_050-bkkkrnewl174}
   back: []
-hash: sha256:d48e4aef5f7681bf709e57d9a989b8a01e0ac6f75e60af766b8a40ed48b281fe
+hash: sha256:9b3caa84faf0ce6ec61ad93672d7fb19ac0210429a345d99eef2f31abee8aadd

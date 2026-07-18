@@ -31,6 +31,7 @@ markers:
   - {type: indent, offset: 6, content: 　　, id: KR4d0243_krp_032-bkkind6}
   - {type: punctuation, offset: 13, content: (, id: KR4d0243_krp_032-bkkpn1}
   - {type: variant, offset: 13, length: 0, content: '', WYG: 紹興三}
+  - {type: voice, offset: 13, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 16, content: /, id: KR4d0243_krp_032-bkkpn2}
   - {type: variant, offset: 16, length: 3, content: 紹熙三, WYG: ''}
   - {type: variant, offset: 17, length: 1, content: 熙, SBCK: 􅄉}
@@ -516,6 +517,7 @@ markers:
   - {type: indent, offset: 1718, content: 　　, id: KR4d0243_krp_032-bkkind16}
   - {type: punctuation, offset: 1725, content: (, id: KR4d0243_krp_032-bkkpn4}
   - {type: variant, offset: 1725, length: 0, content: '', WYG: 慶元元}
+  - {type: voice, offset: 1725, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 1728, content: /, id: KR4d0243_krp_032-bkkpn5}
   - {type: variant, offset: 1728, length: 3, content: 慶元元, WYG: ''}
   - {type: punctuation, offset: 1731, content: ), id: KR4d0243_krp_032-bkkpn6}
@@ -1024,6 +1026,7 @@ markers:
   - {type: indent, offset: 3606, content: 　　, id: KR4d0243_krp_032-bkkind24}
   - {type: punctuation, offset: 3610, content: (, id: KR4d0243_krp_032-bkkpn7}
   - {type: variant, offset: 3610, length: 3, content: 十二月, WYG: ''}
+  - {type: voice, offset: 3610, length: 7, name: note, id: n3}
   - {type: punctuation, offset: 3613, content: /, id: KR4d0243_krp_032-bkkpn8}
   - {type: punctuation, offset: 3617, content: ), id: KR4d0243_krp_032-bkkpn9}
   - {type: 'kr:newline', offset: 3617, content: '
@@ -1149,6 +1152,7 @@ markers:
   - {type: indent, offset: 4025, content: 　　　, id: KR4d0243_krp_032-bkkind27}
   - {type: punctuation, offset: 4037, content: (, id: KR4d0243_krp_032-bkkpn10}
   - {type: variant, offset: 4037, length: 0, content: '', WYG: 開禧三}
+  - {type: voice, offset: 4037, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 4040, content: /, id: KR4d0243_krp_032-bkkpn11}
   - {type: variant, offset: 4040, length: 3, content: 開禧三, WYG: ''}
   - {type: punctuation, offset: 4043, content: ), id: KR4d0243_krp_032-bkkpn12}
@@ -1206,6 +1210,7 @@ markers:
   - {type: indent, offset: 4231, content: 　　, id: KR4d0243_krp_032-bkkind28}
   - {type: punctuation, offset: 4238, content: (, id: KR4d0243_krp_032-bkkpn13}
   - {type: variant, offset: 4238, length: 3, content: 十一月, WYG: ''}
+  - {type: voice, offset: 4238, length: 7, name: note, id: n5}
   - {type: punctuation, offset: 4241, content: /, id: KR4d0243_krp_032-bkkpn14}
   - {type: punctuation, offset: 4245, content: ), id: KR4d0243_krp_032-bkkpn15}
   - {type: 'kr:newline', offset: 4245, content: '
@@ -1674,4 +1679,4 @@ markers:
 
       ', id: KR4d0243_krp_032-bkkkrnewl353}
   back: []
-hash: sha256:9e97e0e4abe6d9e2a11350bd0c7038d39f5d3074afebfc97ec0978fb977f16fa
+hash: sha256:a7c11fefb18fbabb3ea940e6468d7b74d55d7430475c3a0a296b9d9c69f6deb9

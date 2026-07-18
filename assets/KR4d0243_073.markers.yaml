@@ -459,6 +459,7 @@ markers:
   - {type: indent, offset: 1538, content: 　　, id: KR4d0243_krp_073-bkkind16}
   - {type: punctuation, offset: 1547, content: (, id: KR4d0243_krp_073-bkkpn1}
   - {type: variant, offset: 1547, length: 0, content: '', WYG: 王扶}
+  - {type: voice, offset: 1547, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 1549, content: /, id: KR4d0243_krp_073-bkkpn2}
   - {type: variant, offset: 1549, length: 2, content: 王扶, WYG: ''}
   - {type: punctuation, offset: 1551, content: ), id: KR4d0243_krp_073-bkkpn3}
@@ -592,6 +593,7 @@ markers:
   - {type: punctuation, offset: 2067, content: (, id: KR4d0243_krp_073-bkkpn4}
   - {type: variant, offset: 2067, length: 0, content: '', WYG: 按此下有}
   - {type: substitution, offset: 2067, original: 脱, replacement: 脫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19795}}
+  - {type: voice, offset: 2067, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 2071, content: /, id: KR4d0243_krp_073-bkkpn5}
   - {type: variant, offset: 2071, length: 4, content: 案此下有, WYG: ''}
   - {type: punctuation, offset: 2075, content: ), id: KR4d0243_krp_073-bkkpn6}
@@ -2081,6 +2083,7 @@ markers:
   - {type: line-break, offset: 7626, content: '', id: KR4d0243_SBCK_073-23a02}
   - {type: indent, offset: 7626, content: 　　, id: KR4d0243_krp_073-bkkind45}
   - {type: punctuation, offset: 7631, content: (, id: KR4d0243_krp_073-bkkpn7}
+  - {type: voice, offset: 7631, length: 33, name: note, id: n3}
   - {type: variant, offset: 7632, length: 0, content: '', WYG: 原目此首後有跋王伯奮所藏文}
   - {type: punctuation, offset: 7645, content: /, id: KR4d0243_krp_073-bkkpn8}
   - {type: variant, offset: 7645, length: 16, content: 案原目此首後有跋王伯奮所藏文其文, WYG: ''}
@@ -2138,4 +2141,4 @@ markers:
 
       ', id: KR4d0243_krp_073-bkkkrnewl452}
   back: []
-hash: sha256:2af7f5a963dce8e6e30f48f8ff8771181ba25cd21dfe795e7d8a6b4f128b941b
+hash: sha256:ee19f131fa3a30ffa97ed0e616626aa86cb9225580696418569dc5368b267051

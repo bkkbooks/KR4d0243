@@ -723,6 +723,7 @@ markers:
   - {type: line-break, offset: 2610, content: '', id: KR4d0243_SBCK_053-8a08}
   - {type: punctuation, offset: 2622, content: (, id: KR4d0243_krp_053-bkkpn1}
   - {type: variant, offset: 2622, length: 0, content: '', WYG: 宋史藝文志張}
+  - {type: voice, offset: 2622, length: 13, name: note, id: n1}
   - {type: substitution, offset: 2627, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: punctuation, offset: 2628, content: /, id: KR4d0243_krp_053-bkkpn2}
   - {type: variant, offset: 2628, length: 7, content: 案宋史藝文志張, WYG: ''}
@@ -1953,4 +1954,4 @@ markers:
 
       ', id: KR4d0243_krp_053-bkkkrnewl405}
   back: []
-hash: sha256:dce5c28dc24f613aed9816a508562b4d9471bf4fa3c281807260c6edd8b2821c
+hash: sha256:0ddddd7633d6efe1eeccbce1c2e77f8a9a43bce813b1e40f9b9f578cdfbce37c

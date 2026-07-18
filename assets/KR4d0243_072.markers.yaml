@@ -553,6 +553,7 @@ markers:
   - {type: line-break, offset: 1870, content: '', id: KR4d0243_SBCK_072-6b03}
   - {type: indent, offset: 1870, content: 　　, id: KR4d0243_krp_072-bkkind16}
   - {type: punctuation, offset: 1874, content: (, id: KR4d0243_krp_072-bkkpn1}
+  - {type: voice, offset: 1874, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1876, content: ), id: KR4d0243_krp_072-bkkpn2}
   - {type: 'kr:newline', offset: 1878, content: '
 
@@ -896,6 +897,7 @@ markers:
   - {type: line-break, offset: 3026, content: '', id: KR4d0243_SBCK_072-10a02}
   - {type: punctuation, offset: 3026, content: (, id: KR4d0243_krp_072-bkkpn3}
   - {type: variant, offset: 3026, length: 4, content: 繁昌諱鞏, WYG: ''}
+  - {type: voice, offset: 3026, length: 9, name: note, id: n2}
   - {type: punctuation, offset: 3030, content: /, id: KR4d0243_krp_072-bkkpn4}
   - {type: punctuation, offset: 3035, content: ), id: KR4d0243_krp_072-bkkpn5}
   - {type: 'kr:newline', offset: 3035, content: '
@@ -1025,6 +1027,7 @@ markers:
   - {type: line-break, offset: 3468, content: '', id: KR4d0243_SBCK_072-11a07}
   - {type: punctuation, offset: 3486, content: (, id: KR4d0243_krp_072-bkkpn6}
   - {type: variant, offset: 3486, length: 0, content: '', WYG: 此句}
+  - {type: voice, offset: 3486, length: 8, name: note, id: n3}
   - {type: substitution, offset: 3488, original: 脱, replacement: 脫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19795}}
   - {type: punctuation, offset: 3489, content: /, id: KR4d0243_krp_072-bkkpn7}
   - {type: variant, offset: 3489, length: 3, content: 案此句, WYG: 誤}
@@ -1339,6 +1342,7 @@ markers:
   - {type: substitution, offset: 4556, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 4563, content: (, id: KR4d0243_krp_072-bkkpn12}
   - {type: variant, offset: 4563, length: 0, content: '', WYG: 元}
+  - {type: voice, offset: 4563, length: 20, name: note, id: n4}
   - {type: punctuation, offset: 4565, content: /, id: KR4d0243_krp_072-bkkpn13}
   - {type: variant, offset: 4565, length: 2, content: 案元, WYG: 雄所作者宋時避廟}
   - {type: punctuation, offset: 4567, content: ), id: KR4d0243_krp_072-bkkpn14}
@@ -1704,6 +1708,7 @@ markers:
   - {type: line-break, offset: 5769, content: '', id: KR4d0243_SBCK_072-17b09}
   - {type: indent, offset: 5769, content: 　　, id: KR4d0243_krp_072-bkkind34}
   - {type: punctuation, offset: 5773, content: (, id: KR4d0243_krp_072-bkkpn18}
+  - {type: voice, offset: 5773, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 5775, content: ), id: KR4d0243_krp_072-bkkpn19}
   - {type: 'kr:newline', offset: 5782, content: '
 
@@ -1781,4 +1786,4 @@ markers:
 
       ', id: KR4d0243_krp_072-bkkkrnewl354}
   back: []
-hash: sha256:005ac15e8e2353ec198d2066eb7d89c29db1f3ddd1c3d8de60afb08e7d741c78
+hash: sha256:72e707067f5ddfd805994fd04b774fbc1faa6e7ef332657a9045e2d4ca4cfe46

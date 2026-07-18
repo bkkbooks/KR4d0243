@@ -270,6 +270,7 @@ markers:
   - {type: line-break, offset: 785, content: '', id: KR4d0243_SBCK_036-3b03}
   - {type: page-break, offset: 785, content: '', id: KR4d0243_WYG_036-4a, image: WYG1152/WYG1152-0641a.png}
   - {type: punctuation, offset: 793, content: (, id: KR4d0243_krp_036-bkkpn1}
+  - {type: voice, offset: 793, length: 12, name: note, id: n1}
   - {type: variant, offset: 794, length: 0, content: '', WYG: 元孫之元宋}
   - {type: punctuation, offset: 799, content: /, id: KR4d0243_krp_036-bkkpn2}
   - {type: variant, offset: 799, length: 6, content: 案元孫之元宋, WYG: ''}
@@ -565,6 +566,7 @@ markers:
   - {type: line-break, offset: 1753, content: '', id: KR4d0243_SBCK_036-6b03}
   - {type: substitution, offset: 1760, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: punctuation, offset: 1770, content: (, id: KR4d0243_krp_036-bkkpn4}
+  - {type: voice, offset: 1770, length: 12, name: note, id: n2}
   - {type: variant, offset: 1771, length: 0, content: '', WYG: 洪毅之}
   - {type: punctuation, offset: 1774, content: /, id: KR4d0243_krp_036-bkkpn5}
   - {type: variant, offset: 1774, length: 4, content: 案洪毅之, WYG: 廟諱}
@@ -1305,6 +1307,7 @@ markers:
   - {type: variant, offset: 4138, length: 1, content: 蓋, WYG: 葢}
   - {type: punctuation, offset: 4144, content: (, id: KR4d0243_krp_036-bkkpn10}
   - {type: variant, offset: 4144, length: 0, content: '', WYG: 陳居仁云性資夷曠學}
+  - {type: voice, offset: 4144, length: 32, name: note, id: n3}
   - {type: punctuation, offset: 4153, content: /, id: KR4d0243_krp_036-bkkpn11}
   - {type: variant, offset: 4153, length: 9, content: 陳居仁云性資夷曠學, WYG: 深醇之體南邦共}
   - {type: punctuation, offset: 4162, content: ), id: KR4d0243_krp_036-bkkpn12}
@@ -2101,4 +2104,4 @@ markers:
 
       ', id: KR4d0243_krp_036-bkkkrnewl415}
   back: []
-hash: sha256:997b35fe7beadc014467cf3567480cbfafc5a625a8f01d38ebe992c92cb4a843
+hash: sha256:c8454311df2d70ce108db017d842c782f0d4d64354e65f3ab10b55a672c8f244

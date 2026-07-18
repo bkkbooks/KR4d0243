@@ -664,6 +664,7 @@ markers:
   - {type: line-break, offset: 2439, content: '', id: KR4d0243_SBCK_108-7b05}
   - {type: substitution, offset: 2439, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 2445, content: (, id: KR4d0243_krp_108-bkkpn1}
+  - {type: voice, offset: 2445, length: 21, name: note, id: n1}
   - {type: variant, offset: 2446, length: 10, content: 朝始祖廟諱故書作元案, WYG: ''}
   - {type: punctuation, offset: 2455, content: /, id: KR4d0243_krp_108-bkkpn2}
   - {type: punctuation, offset: 2466, content: ), id: KR4d0243_krp_108-bkkpn3}
@@ -2092,4 +2093,4 @@ markers:
 
       ', id: KR4d0243_krp_108-bkkkrnewl434}
   back: []
-hash: sha256:ce405977a936dd82831ab61c6346671c13464475afb8496f408ccd4bc193b4f7
+hash: sha256:16a673a3d65c1f15c74846c6d9d74e6c3910543cba56db0462ee6f83e87e9a92

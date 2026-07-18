@@ -27,6 +27,7 @@ markers:
   - {type: punctuation, offset: 6, content: (, id: KR4d0243_krp_029-bkkpn1}
   - {type: variant, offset: 6, length: 0, content: '', WYG: 瑣闥}
   - {type: substitution, offset: 6, original: 惷, replacement: 蠢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17826}}
+  - {type: voice, offset: 6, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 8, content: /, id: KR4d0243_krp_029-bkkpn2}
   - {type: variant, offset: 8, length: 2, content: 瑣闥, WYG: ''}
   - {type: punctuation, offset: 10, content: ), id: KR4d0243_krp_029-bkkpn3}
@@ -37,6 +38,7 @@ markers:
   - {type: indent, offset: 10, content: 　　, id: KR4d0243_krp_029-bkkind6}
   - {type: punctuation, offset: 17, content: (, id: KR4d0243_krp_029-bkkpn4}
   - {type: variant, offset: 17, length: 0, content: '', WYG: 改易製造頭冠法服等竝皆精}
+  - {type: voice, offset: 17, length: 59, name: note, id: n2}
   - {type: substitution, offset: 26, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: punctuation, offset: 29, content: /, id: KR4d0243_krp_029-bkkpn5}
   - {type: variant, offset: 29, length: 29, content: 改易製造頭冠法服等竝皆精上轉行黄鑑階官上轉行李唐卿轉行遙郡, WYG: ''}
@@ -667,6 +669,7 @@ markers:
   - {type: indent, offset: 2319, content: 　　, id: KR4d0243_krp_029-bkkind11}
   - {type: punctuation, offset: 2325, content: (, id: KR4d0243_krp_029-bkkpn10}
   - {type: variant, offset: 2325, length: 0, content: '', WYG: 後省看詳臨安府進士鄭熙等連}
+  - {type: voice, offset: 2325, length: 26, name: note, id: n3}
   - {type: substitution, offset: 2335, original: 竝, replacement: 並, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16390}}
   - {type: punctuation, offset: 2338, content: /, id: KR4d0243_krp_029-bkkpn11}
   - {type: variant, offset: 2338, length: 13, content: 後省看詳臨安府進士鄭熙等連, WYG: ''}
@@ -1428,6 +1431,7 @@ markers:
   - {type: indent, offset: 5174, content: 　　, id: KR4d0243_krp_029-bkkind19}
   - {type: punctuation, offset: 5186, content: (, id: KR4d0243_krp_029-bkkpn13}
   - {type: variant, offset: 5186, length: 0, content: '', WYG: 成國信國崇國三}
+  - {type: voice, offset: 5186, length: 25, name: note, id: n4}
   - {type: punctuation, offset: 5193, content: /, id: KR4d0243_krp_029-bkkpn14}
   - {type: variant, offset: 5193, length: 12, content: 成國信國崇國三宫人例支請, WYG: ''}
   - {type: punctuation, offset: 5200, content: ), id: KR4d0243_krp_029-bkkpn15}
@@ -1538,4 +1542,4 @@ markers:
 
       ', id: KR4d0243_krp_029-bkkkrnewl310}
   back: []
-hash: sha256:2ab6b93b1bc38bf5cee4e0a8f93d74352b6f0b58c072568a9f698b39456d8dc5
+hash: sha256:08c42e9ec7a02698ffe41d4299d24f53153cdc6d5ffe6fb52afc87f8a1c5c36e

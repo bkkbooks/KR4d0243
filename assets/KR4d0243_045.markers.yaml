@@ -391,6 +391,7 @@ markers:
   - {type: indent, offset: 1236, content: 　, id: KR4d0243_krp_045-bkkind20}
   - {type: punctuation, offset: 1240, content: (, id: KR4d0243_krp_045-bkkpn1}
   - {type: variant, offset: 1240, length: 2, content: 琚同, WYG: ''}
+  - {type: voice, offset: 1240, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 1242, content: /, id: KR4d0243_krp_045-bkkpn2}
   - {type: substitution, offset: 1242, original: 吴, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19437}}
   - {type: substitution, offset: 1244, original: 吴, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19437}}
@@ -565,6 +566,7 @@ markers:
   - {type: indent, offset: 1776, content: 　, id: KR4d0243_krp_045-bkkind25}
   - {type: punctuation, offset: 1780, content: (, id: KR4d0243_krp_045-bkkpn4}
   - {type: variant, offset: 1780, length: 0, content: '', WYG: 蕭鷓}
+  - {type: voice, offset: 1780, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 1782, content: /, id: KR4d0243_krp_045-bkkpn5}
   - {type: variant, offset: 1782, length: 2, content: 蕭鷓, WYG: ''}
   - {type: punctuation, offset: 1784, content: ), id: KR4d0243_krp_045-bkkpn6}
@@ -576,6 +578,7 @@ markers:
   - {type: substitution, offset: 1800, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 1806, content: (, id: KR4d0243_krp_045-bkkpn7}
   - {type: variant, offset: 1806, length: 0, content: '', WYG: 蕭改眷我勁}
+  - {type: voice, offset: 1806, length: 10, name: note, id: n3}
   - {type: punctuation, offset: 1811, content: /, id: KR4d0243_krp_045-bkkpn8}
   - {type: variant, offset: 1811, length: 5, content: 蕭改眷我勁, WYG: ''}
   - {type: substitution, offset: 1815, original: 勁, replacement: 徑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20194}}
@@ -1148,4 +1151,4 @@ markers:
 
       ', id: KR4d0243_krp_045-bkkkrnewl214}
   back: []
-hash: sha256:5e5d63d889f1c95c786622910308e39db19b51db5626f9c87ab3c78936a56c62
+hash: sha256:69c33cd8f2b028de2540a3f820f70f0ab85241b0238ed0cf99e8bd1e5821392e

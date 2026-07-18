@@ -729,6 +729,7 @@ markers:
   - {type: line-break, offset: 1780, content: '', id: KR4d0243_SBCK_010-8a08}
   - {type: punctuation, offset: 1787, content: (, id: KR4d0243_krp_010-bkkpn1}
   - {type: variant, offset: 1787, length: 0, content: '', WYG: 先舍人居韶十四}
+  - {type: voice, offset: 1787, length: 14, name: note, id: n1}
   - {type: punctuation, offset: 1794, content: /, id: KR4d0243_krp_010-bkkpn2}
   - {type: variant, offset: 1794, length: 7, content: 先舍人居韶十四, WYG: ''}
   - {type: punctuation, offset: 1801, content: ), id: KR4d0243_krp_010-bkkpn3}
@@ -747,6 +748,7 @@ markers:
   - {type: page-break, offset: 1822, content: '', id: KR4d0243_WYG_010-9b, image: WYG1152/WYG1152-0389d.png}
   - {type: punctuation, offset: 1829, content: (, id: KR4d0243_krp_010-bkkpn4}
   - {type: variant, offset: 1829, length: 0, content: '', WYG: 陳秀公曽守}
+  - {type: voice, offset: 1829, length: 10, name: note, id: n2}
   - {type: punctuation, offset: 1834, content: /, id: KR4d0243_krp_010-bkkpn5}
   - {type: variant, offset: 1834, length: 5, content: 陳秀公曽守, WYG: ''}
   - {type: punctuation, offset: 1839, content: ), id: KR4d0243_krp_010-bkkpn6}
@@ -1275,11 +1277,13 @@ markers:
   - {type: line-break, offset: 3296, content: '', id: KR4d0243_SBCK_010-14a02}
   - {type: punctuation, offset: 3296, content: (, id: KR4d0243_krp_010-bkkpn7}
   - {type: variant, offset: 3296, length: 1, content: 光, WYG: ''}
+  - {type: voice, offset: 3296, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 3297, content: /, id: KR4d0243_krp_010-bkkpn8}
   - {type: punctuation, offset: 3299, content: ), id: KR4d0243_krp_010-bkkpn9}
   - {type: variant, offset: 3299, length: 0, content: '', WYG: 光}
   - {type: punctuation, offset: 3306, content: (, id: KR4d0243_krp_010-bkkpn10}
   - {type: variant, offset: 3306, length: 0, content: '', WYG: 南唐吳舉為彭澤主}
+  - {type: voice, offset: 3306, length: 16, name: note, id: n4}
   - {type: punctuation, offset: 3314, content: /, id: KR4d0243_krp_010-bkkpn11}
   - {type: variant, offset: 3314, length: 8, content: 南唐吳舉為彭澤主, WYG: ''}
   - {type: punctuation, offset: 3322, content: ), id: KR4d0243_krp_010-bkkpn12}
@@ -1523,6 +1527,7 @@ markers:
   - {type: punctuation, offset: 4018, content: (, id: KR4d0243_krp_010-bkkpn13}
   - {type: variant, offset: 4018, length: 0, content: '', WYG: 欲和}
   - {type: substitution, offset: 4018, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
+  - {type: voice, offset: 4018, length: 9, name: note, id: n5}
   - {type: punctuation, offset: 4020, content: /, id: KR4d0243_krp_010-bkkpn14}
   - {type: variant, offset: 4020, length: 4, content: 欲和雙林, WYG: ''}
   - {type: punctuation, offset: 4022, content: ), id: KR4d0243_krp_010-bkkpn15}
@@ -1657,6 +1662,7 @@ markers:
   - {type: line-break, offset: 4357, content: '', id: KR4d0243_SBCK_010-17b09}
   - {type: substitution, offset: 4363, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20786}}
   - {type: punctuation, offset: 4364, content: (, id: KR4d0243_krp_010-bkkpn19}
+  - {type: voice, offset: 4364, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 4366, content: ), id: KR4d0243_krp_010-bkkpn20}
   - {type: 'kr:newline', offset: 4366, content: '
 
@@ -1673,6 +1679,7 @@ markers:
       ', id: KR4d0243_krp_010-bkkkrnewl342}
   - {type: line-break, offset: 4387, content: '', id: KR4d0243_SBCK_010-18a02}
   - {type: punctuation, offset: 4394, content: (, id: KR4d0243_krp_010-bkkpn21}
+  - {type: voice, offset: 4394, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 4396, content: ), id: KR4d0243_krp_010-bkkpn22}
   - {type: 'kr:newline', offset: 4396, content: '
 
@@ -1986,4 +1993,4 @@ markers:
 
       ', id: KR4d0243_krp_010-bkkkrnewl406}
   back: []
-hash: sha256:17804e81ae120be99b30c6fd44f866044a934c7e5165b6d8c2d3c9ee539f95c8
+hash: sha256:658e2566d3ac5ffca9b14fcdd6d5a3ff012b213b5906ffe7ccdeb6d69bb31b13

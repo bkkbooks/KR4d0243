@@ -276,6 +276,7 @@ markers:
   - {type: line-break, offset: 953, content: '', id: KR4d0243_SBCK_085-3b07}
   - {type: punctuation, offset: 958, content: (, id: KR4d0243_krp_085-bkkpn1}
   - {type: variant, offset: 958, length: 0, content: '', WYG: 此下長適次適云云百餘}
+  - {type: voice, offset: 958, length: 21, name: note, id: n1}
   - {type: substitution, offset: 965, original: 㮣, replacement: 概, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17565}}
   - {type: punctuation, offset: 968, content: /, id: KR4d0243_krp_085-bkkpn2}
   - {type: variant, offset: 968, length: 11, content: 案此下長適次適云云百餘, WYG: ''}
@@ -2272,4 +2273,4 @@ markers:
 
       ', id: KR4d0243_krp_085-bkkkrnewl479}
   back: []
-hash: sha256:28ed230e59354b2dc723ddc307f5aed0a5bf72f3c3da19355ef9a248c69ef7e5
+hash: sha256:b60b19126786b691efa609f2113a91f14340e8ac65ef3ee717e373e523ce0ad4

@@ -27,6 +27,7 @@ markers:
   - {type: punctuation, offset: 6, content: (, id: KR4d0243_krp_030-bkkpn1}
   - {type: variant, offset: 6, length: 0, content: '', WYG: 瑣闥}
   - {type: substitution, offset: 6, original: 惷, replacement: 蠢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17826}}
+  - {type: voice, offset: 6, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 8, content: /, id: KR4d0243_krp_030-bkkpn2}
   - {type: variant, offset: 8, length: 2, content: 瑣闥, WYG: ''}
   - {type: punctuation, offset: 10, content: ), id: KR4d0243_krp_030-bkkpn3}
@@ -111,6 +112,7 @@ markers:
   - {type: indent, offset: 292, content: 　　, id: KR4d0243_krp_030-bkkind7}
   - {type: punctuation, offset: 296, content: (, id: KR4d0243_krp_030-bkkpn4}
   - {type: variant, offset: 296, length: 14, content: 且從禮官第一次陳請奉聖旨恭依, WYG: ''}
+  - {type: voice, offset: 296, length: 29, name: note, id: n2}
   - {type: punctuation, offset: 310, content: /, id: KR4d0243_krp_030-bkkpn5}
   - {type: punctuation, offset: 325, content: ), id: KR4d0243_krp_030-bkkpn6}
   - {type: 'kr:newline', offset: 325, content: '
@@ -747,6 +749,7 @@ markers:
   - {type: indent, offset: 2756, content: 　　, id: KR4d0243_krp_030-bkkind13}
   - {type: punctuation, offset: 2763, content: (, id: KR4d0243_krp_030-bkkpn7}
   - {type: variant, offset: 2763, length: 0, content: '', WYG: 御前忠佐成立該登寳位合轉}
+  - {type: voice, offset: 2763, length: 49, name: note, id: n3}
   - {type: substitution, offset: 2765, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: punctuation, offset: 2775, content: /, id: KR4d0243_krp_030-bkkpn8}
   - {type: variant, offset: 2775, length: 24, content: 御前忠佐成立該登寳位合轉般請給等竝依周興體例支賜, WYG: ''}
@@ -1006,6 +1009,7 @@ markers:
   - {type: substitution, offset: 3694, original: 侂, replacement: 托, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20381}}
   - {type: punctuation, offset: 3706, content: (, id: KR4d0243_krp_030-bkkpn13}
   - {type: variant, offset: 3706, length: 4, content: 林大中韓, WYG: ''}
+  - {type: voice, offset: 3706, length: 33, name: note, id: n4}
   - {type: 'kr:non-cjk', offset: 3709, content: ○, id: KR4d0243_krp_030-bkkkrnonc1}
   - {type: punctuation, offset: 3710, content: /, id: KR4d0243_krp_030-bkkpn14}
   - {type: punctuation, offset: 3715, content: ), id: KR4d0243_krp_030-bkkpn15}
@@ -1173,6 +1177,7 @@ markers:
   - {type: variant, offset: 4244, length: 1, content: 龜, SBCK: 􅀛}
   - {type: punctuation, offset: 4246, content: (, id: KR4d0243_krp_030-bkkpn19}
   - {type: variant, offset: 4246, length: 0, content: '', WYG: 聖旨彭龜年除職與郡已是}
+  - {type: voice, offset: 4246, length: 38, name: note, id: n5}
   - {type: variant, offset: 4249, length: 1, content: 侂, SBCK: 􅇑}
   - {type: substitution, offset: 4249, original: 侂, replacement: 托, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20381}}
   - {type: punctuation, offset: 4257, content: /, id: KR4d0243_krp_030-bkkpn20}
@@ -1285,4 +1290,4 @@ markers:
 
       ', id: KR4d0243_krp_030-bkkkrnewl253}
   back: []
-hash: sha256:ae0aa99c77e85b0b223e70d5f07f98739898f7f8daac8d5b3f3c295bb144f754
+hash: sha256:7feaca563d25a28072a81b8eeb45bf34b6836387fa3f99fa48c6bc1f0c54f9e5

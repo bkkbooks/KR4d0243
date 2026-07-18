@@ -3036,6 +3036,7 @@ markers:
   - {type: substitution, offset: 9189, original: 岳, replacement: 嶽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20630}}
   - {type: punctuation, offset: 9191, content: (, id: KR4d0243_krp_003-bkkpn1}
   - {type: variant, offset: 9191, length: 0, content: '', WYG: 原本脫去此首據集目}
+  - {type: voice, offset: 9191, length: 25, name: note, id: n1}
   - {type: punctuation, offset: 9201, content: /, id: KR4d0243_krp_003-bkkpn2}
   - {type: variant, offset: 9201, length: 12, content: 案原本脫去此首據集目于此, WYG: ''}
   - {type: punctuation, offset: 9211, content: ), id: KR4d0243_krp_003-bkkpn3}
@@ -3146,6 +3147,7 @@ markers:
   - {type: variant, offset: 9552, length: 1, content: 摻, WYG: 操}
   - {type: punctuation, offset: 9566, content: (, id: KR4d0243_krp_003-bkkpn7}
   - {type: variant, offset: 9566, length: 0, content: '', WYG: 太守任}
+  - {type: voice, offset: 9566, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 9569, content: /, id: KR4d0243_krp_003-bkkpn8}
   - {type: variant, offset: 9569, length: 3, content: 太守任, WYG: ''}
   - {type: punctuation, offset: 9572, content: ), id: KR4d0243_krp_003-bkkpn9}
@@ -3167,4 +3169,4 @@ markers:
 
       ', id: KR4d0243_krp_003-bkkkrnewl572}
   back: []
-hash: sha256:5d2f2d92eb886516e63bc969bad9a4b0d6db3dae227c3e4e0c8c4014c74e0241
+hash: sha256:c18516f3da71bed921769afb679e2d976d3c1b790404861d08bfd3ddd412c453

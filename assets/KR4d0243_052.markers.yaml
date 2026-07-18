@@ -739,6 +739,7 @@ markers:
   - {type: page-break, offset: 2666, content: '', id: KR4d0243_WYG_052-9b, image: WYG1152/WYG1152-0807d.png}
   - {type: punctuation, offset: 2683, content: (, id: KR4d0243_krp_052-bkkpn1}
   - {type: variant, offset: 2683, length: 0, content: '', WYG: 宋史季}
+  - {type: voice, offset: 2683, length: 12, name: note, id: n1}
   - {type: punctuation, offset: 2687, content: /, id: KR4d0243_krp_052-bkkpn2}
   - {type: variant, offset: 2687, length: 4, content: 案宋史李, WYG: 作弟}
   - {type: punctuation, offset: 2691, content: ), id: KR4d0243_krp_052-bkkpn3}
@@ -2624,4 +2625,4 @@ markers:
 
       ', id: KR4d0243_krp_052-bkkkrnewl530}
   back: []
-hash: sha256:ec53f7e27a046bae7f1d9182cf27c8c5fc2ad9919ce199c51fc46ebd59dfd725
+hash: sha256:dd6a7f0caf1ebe7eacdca292820d8391b044369a2dccffb2cf130c5a509550b9

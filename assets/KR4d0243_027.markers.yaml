@@ -26,6 +26,7 @@ markers:
   - {type: indent, offset: 4, content: 　, id: KR4d0243_krp_027-bkkind5}
   - {type: punctuation, offset: 6, content: (, id: KR4d0243_krp_027-bkkpn1}
   - {type: variant, offset: 6, length: 0, content: '', WYG: 西掖}
+  - {type: voice, offset: 6, length: 4, name: note, id: n1}
   - {type: substitution, offset: 7, original: 槀, replacement: 稿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18632}}
   - {type: punctuation, offset: 8, content: /, id: KR4d0243_krp_027-bkkpn2}
   - {type: variant, offset: 8, length: 2, content: 西掖, WYG: ''}
@@ -207,6 +208,7 @@ markers:
   - {type: indent, offset: 619, content: 　　, id: KR4d0243_krp_027-bkkind14}
   - {type: punctuation, offset: 624, content: (, id: KR4d0243_krp_027-bkkpn4}
   - {type: variant, offset: 624, length: 13, content: 郎鄭汝諧劄子三省同奉聖㫖依, WYG: ''}
+  - {type: voice, offset: 624, length: 27, name: note, id: n2}
   - {type: substitution, offset: 635, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: punctuation, offset: 637, content: /, id: KR4d0243_krp_027-bkkpn5}
   - {type: substitution, offset: 638, original: 㪚, replacement: 散, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17428}}
@@ -592,6 +594,7 @@ markers:
   - {type: indent, offset: 2098, content: 　　, id: KR4d0243_krp_027-bkkind15}
   - {type: punctuation, offset: 2104, content: (, id: KR4d0243_krp_027-bkkpn7}
   - {type: variant, offset: 2104, length: 0, content: '', WYG: 李孝純等奏合得恩澤一十八名}
+  - {type: voice, offset: 2104, length: 28, name: note, id: n3}
   - {type: punctuation, offset: 2117, content: /, id: KR4d0243_krp_027-bkkpn8}
   - {type: variant, offset: 2117, length: 13, content: 李孝純等奏合得恩澤一十八名, WYG: 施}
   - {type: punctuation, offset: 2130, content: ), id: KR4d0243_krp_027-bkkpn9}
@@ -697,6 +700,7 @@ markers:
   - {type: variant, offset: 2456, length: 0, content: '', WYG: 事}
   - {type: punctuation, offset: 2458, content: (, id: KR4d0243_krp_027-bkkpn13}
   - {type: variant, offset: 2458, length: 0, content: '', WYG: 同}
+  - {type: voice, offset: 2458, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 2459, content: /, id: KR4d0243_krp_027-bkkpn14}
   - {type: variant, offset: 2459, length: 1, content: 同, WYG: 事中}
   - {type: punctuation, offset: 2460, content: ), id: KR4d0243_krp_027-bkkpn15}
@@ -858,6 +862,7 @@ markers:
   - {type: indent, offset: 3027, content: 　　, id: KR4d0243_krp_027-bkkind17}
   - {type: punctuation, offset: 3037, content: (, id: KR4d0243_krp_027-bkkpn19}
   - {type: variant, offset: 3037, length: 9, content: 恩數内門客蔣孝曾親, WYG: ''}
+  - {type: voice, offset: 3037, length: 30, name: note, id: n5}
   - {type: substitution, offset: 3039, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: punctuation, offset: 3046, content: /, id: KR4d0243_krp_027-bkkpn20}
   - {type: punctuation, offset: 3055, content: ), id: KR4d0243_krp_027-bkkpn21}
@@ -983,4 +988,4 @@ markers:
 
       ', id: KR4d0243_krp_027-bkkkrnewl194}
   back: []
-hash: sha256:973c530ca040526b0ab3f7b65cd7daf93e9163a7806f78a12c9dd38bd3df4834
+hash: sha256:6ddcdc2a400469bbb4309c6908f4f7d9a379a181a6cabc2d1d213f6ce3bb9f1e

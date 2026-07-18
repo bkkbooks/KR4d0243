@@ -258,6 +258,7 @@ markers:
       ', id: KR4d0243_krp_038-bkkkrnewl47}
   - {type: line-break, offset: 744, content: '', id: KR4d0243_SBCK_038-3a08}
   - {type: punctuation, offset: 755, content: (, id: KR4d0243_krp_038-bkkpn1}
+  - {type: voice, offset: 755, length: 22, name: note, id: n1}
   - {type: variant, offset: 756, length: 10, content: 言歸論奏明辯互證當案, WYG: ''}
   - {type: substitution, offset: 761, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: punctuation, offset: 765, content: /, id: KR4d0243_krp_038-bkkpn2}
@@ -1884,11 +1885,13 @@ markers:
   - {type: substitution, offset: 5775, original: 粤, replacement: 粵, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20804}}
   - {type: punctuation, offset: 5779, content: (, id: KR4d0243_krp_038-bkkpn7}
   - {type: variant, offset: 5779, length: 2, content: 孫子, WYG: ''}
+  - {type: voice, offset: 5779, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 5781, content: /, id: KR4d0243_krp_038-bkkpn8}
   - {type: punctuation, offset: 5784, content: ), id: KR4d0243_krp_038-bkkpn9}
   - {type: variant, offset: 5784, length: 0, content: '', WYG: 孫子}
   - {type: punctuation, offset: 5788, content: (, id: KR4d0243_krp_038-bkkpn10}
   - {type: variant, offset: 5788, length: 0, content: '', WYG: 臺官云列屬憲}
+  - {type: voice, offset: 5788, length: 28, name: note, id: n3}
   - {type: variant, offset: 5789, length: 1, content: 卿, SBCK: 􅀸}
   - {type: punctuation, offset: 5794, content: /, id: KR4d0243_krp_038-bkkpn11}
   - {type: variant, offset: 5794, length: 2, content: 臺官, WYG: 月卿郎宫}
@@ -1930,6 +1933,7 @@ markers:
   - {type: page-break, offset: 5857, content: '', id: KR4d0243_WYG_038-21b, image: WYG1152/WYG1152-0673b.png}
   - {type: punctuation, offset: 5864, content: (, id: KR4d0243_krp_038-bkkpn16}
   - {type: variant, offset: 5864, length: 7, content: 至用推老老之恩, WYG: ''}
+  - {type: voice, offset: 5864, length: 15, name: note, id: n4}
   - {type: punctuation, offset: 5871, content: /, id: KR4d0243_krp_038-bkkpn17}
   - {type: punctuation, offset: 5879, content: ), id: KR4d0243_krp_038-bkkpn18}
   - {type: variant, offset: 5879, length: 0, content: '', WYG: 至用推老老之恩}
@@ -1941,11 +1945,13 @@ markers:
   - {type: variant, offset: 5889, length: 1, content: 粵, WYG: 粤}
   - {type: punctuation, offset: 5893, content: (, id: KR4d0243_krp_038-bkkpn19}
   - {type: variant, offset: 5893, length: 2, content: 賢孫, WYG: ''}
+  - {type: voice, offset: 5893, length: 5, name: note, id: n5}
   - {type: punctuation, offset: 5895, content: /, id: KR4d0243_krp_038-bkkpn20}
   - {type: punctuation, offset: 5898, content: ), id: KR4d0243_krp_038-bkkpn21}
   - {type: variant, offset: 5898, length: 0, content: '', WYG: 賢孫}
   - {type: punctuation, offset: 5902, content: (, id: KR4d0243_krp_038-bkkpn22}
   - {type: variant, offset: 5902, length: 0, content: '', WYG: 官官云列屬憲}
+  - {type: voice, offset: 5902, length: 28, name: note, id: n6}
   - {type: variant, offset: 5903, length: 1, content: 卿, SBCK: 􅀸}
   - {type: punctuation, offset: 5908, content: /, id: KR4d0243_krp_038-bkkpn23}
   - {type: variant, offset: 5908, length: 1, content: 臺, WYG: 月卿郎}
@@ -1968,6 +1974,7 @@ markers:
   - {type: line-break, offset: 5943, content: '', id: KR4d0243_SBCK_038-19a07}
   - {type: punctuation, offset: 5950, content: (, id: KR4d0243_krp_038-bkkpn28}
   - {type: variant, offset: 5950, length: 0, content: '', WYG: 郡夫人爰封名郡}
+  - {type: voice, offset: 5950, length: 14, name: note, id: n7}
   - {type: punctuation, offset: 5957, content: /, id: KR4d0243_krp_038-bkkpn29}
   - {type: variant, offset: 5957, length: 7, content: 郡夫人爰封名郡, WYG: ''}
   - {type: punctuation, offset: 5964, content: ), id: KR4d0243_krp_038-bkkpn30}
@@ -2004,11 +2011,13 @@ markers:
   - {type: page-break, offset: 6032, content: '', id: KR4d0243_WYG_038-22a, image: WYG1152/WYG1152-0673c.png}
   - {type: punctuation, offset: 6036, content: (, id: KR4d0243_krp_038-bkkpn31}
   - {type: variant, offset: 6036, length: 6, content: 甚飭婦道有聞, WYG: ''}
+  - {type: voice, offset: 6036, length: 13, name: note, id: n8}
   - {type: punctuation, offset: 6042, content: /, id: KR4d0243_krp_038-bkkpn32}
   - {type: punctuation, offset: 6049, content: ), id: KR4d0243_krp_038-bkkpn33}
   - {type: variant, offset: 6049, length: 0, content: '', WYG: 甚飭婦道有聞}
   - {type: punctuation, offset: 6057, content: (, id: KR4d0243_krp_038-bkkpn34}
   - {type: variant, offset: 6057, length: 0, content: '', WYG: 祖父}
+  - {type: voice, offset: 6057, length: 36, name: note, id: n9}
   - {type: punctuation, offset: 6059, content: /, id: KR4d0243_krp_038-bkkpn35}
   - {type: variant, offset: 6059, length: 2, content: 祖父, WYG: 仕朝行朝官云子通朝藉京局京官選人}
   - {type: punctuation, offset: 6061, content: ), id: KR4d0243_krp_038-bkkpn36}
@@ -2205,6 +2214,7 @@ markers:
       ', id: KR4d0243_krp_038-bkkkrnewl411}
   - {type: line-break, offset: 6683, content: '', id: KR4d0243_SBCK_038-21b02}
   - {type: punctuation, offset: 6685, content: (, id: KR4d0243_krp_038-bkkpn40}
+  - {type: voice, offset: 6685, length: 37, name: note, id: n10}
   - {type: variant, offset: 6688, length: 18, content: 李與岡頭盧土門崔竝稱可證其不誤案澤底, WYG: ''}
   - {type: substitution, offset: 6696, original: 竝, replacement: 並, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16390}}
   - {type: punctuation, offset: 6703, content: /, id: KR4d0243_krp_038-bkkpn41}
@@ -2275,4 +2285,4 @@ markers:
 
       ', id: KR4d0243_krp_038-bkkkrnewl424}
   back: []
-hash: sha256:97fd7e6d63a9a393118d2cc265955101ce5c732489dea65166dcdd901f6ef0bc
+hash: sha256:7a555082570fda850e2f60622aa7c721b6ff508591a893fd569ce769e7345dfd

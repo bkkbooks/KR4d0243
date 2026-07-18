@@ -31,6 +31,7 @@ markers:
   - {type: indent, offset: 6, content: 　　, id: KR4d0243_krp_021-bkkind6}
   - {type: punctuation, offset: 16, content: (, id: KR4d0243_krp_021-bkkpn1}
   - {type: variant, offset: 16, length: 2, content: 日上, WYG: ''}
+  - {type: voice, offset: 16, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 18, content: /, id: KR4d0243_krp_021-bkkpn2}
   - {type: substitution, offset: 19, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
   - {type: punctuation, offset: 21, content: ), id: KR4d0243_krp_021-bkkpn3}
@@ -254,6 +255,7 @@ markers:
   - {type: indent, offset: 851, content: 　　, id: KR4d0243_krp_021-bkkind16}
   - {type: punctuation, offset: 854, content: (, id: KR4d0243_krp_021-bkkpn4}
   - {type: variant, offset: 854, length: 3, content: 旨奏事, WYG: ''}
+  - {type: voice, offset: 854, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 857, content: /, id: KR4d0243_krp_021-bkkpn5}
   - {type: substitution, offset: 858, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
   - {type: punctuation, offset: 861, content: ), id: KR4d0243_krp_021-bkkpn6}
@@ -629,6 +631,7 @@ markers:
   - {type: indent, offset: 2344, content: 　　, id: KR4d0243_krp_021-bkkind19}
   - {type: punctuation, offset: 2347, content: (, id: KR4d0243_krp_021-bkkpn7}
   - {type: variant, offset: 2347, length: 3, content: 中日上, WYG: ''}
+  - {type: voice, offset: 2347, length: 7, name: note, id: n3}
   - {type: punctuation, offset: 2350, content: /, id: KR4d0243_krp_021-bkkpn8}
   - {type: substitution, offset: 2351, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16303}}
   - {type: punctuation, offset: 2354, content: ), id: KR4d0243_krp_021-bkkpn9}
@@ -1341,4 +1344,4 @@ markers:
 
       ', id: KR4d0243_krp_021-bkkkrnewl286}
   back: []
-hash: sha256:fb80cece091cdd9491ed7e8e778674c7fe59e03ca16d8915f5e785ed8b0da882
+hash: sha256:b4c84fc768d719c39f58b4ea4a27354a76daf1737b928cce1132e3910d337e8f

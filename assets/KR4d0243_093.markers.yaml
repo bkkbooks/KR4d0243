@@ -31,6 +31,7 @@ markers:
   - {type: substitution, offset: 10, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 15, content: (, id: KR4d0243_krp_093-bkkpn1}
   - {type: variant, offset: 15, length: 0, content: '', WYG: 奉敕撰節度標題一作太師}
+  - {type: voice, offset: 15, length: 51, name: note, id: n1}
   - {type: substitution, offset: 16, original: 寜, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19886}}
   - {type: variant, offset: 18, length: 2, content: 節度, WYG: ''}
   - {type: punctuation, offset: 26, content: /, id: KR4d0243_krp_093-bkkpn2}
@@ -1781,6 +1782,7 @@ markers:
   - {type: substitution, offset: 7034, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 7037, content: (, id: KR4d0243_krp_093-bkkpn8}
   - {type: variant, offset: 7037, length: 0, content: '', WYG: 奉敕撰按此標題一本與後卷自}
+  - {type: voice, offset: 7037, length: 25, name: note, id: n2}
   - {type: punctuation, offset: 7050, content: /, id: KR4d0243_krp_093-bkkpn9}
   - {type: variant, offset: 7050, length: 12, content: 奉敕撰案標題一本與後卷自, WYG: ''}
   - {type: punctuation, offset: 7053, content: /, id: KR4d0243_krp_093-bkkpn10}
@@ -2524,6 +2526,7 @@ markers:
   - {type: line-break, offset: 10107, content: '', id: KR4d0243_SBCK_093-27b08}
   - {type: punctuation, offset: 10109, content: (, id: KR4d0243_krp_093-bkkpn12}
   - {type: variant, offset: 10109, length: 0, content: '', WYG: 按呼嚕舊作忽}
+  - {type: voice, offset: 10109, length: 11, name: note, id: n3}
   - {type: punctuation, offset: 10114, content: /, id: KR4d0243_krp_093-bkkpn13}
   - {type: variant, offset: 10114, length: 6, content: 案呼嚕舊作忽, WYG: ''}
   - {type: punctuation, offset: 10120, content: ), id: KR4d0243_krp_093-bkkpn14}
@@ -2948,4 +2951,4 @@ markers:
 
       ', id: KR4d0243_krp_093-bkkkrnewl630}
   back: []
-hash: sha256:2ac1053fa1f43ac5ef51b402f97d8a7fa253db546e3d4f1d6c05cb2534145e06
+hash: sha256:0a47847138f3b6d0bca1f36ec86fdfea2e0945216d5061d52fd1776bc798e18a

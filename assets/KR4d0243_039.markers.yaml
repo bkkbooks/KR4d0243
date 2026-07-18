@@ -170,6 +170,7 @@ markers:
   - {type: variant, offset: 405, length: 1, content: 舍, WYG: 舎}
   - {type: variant, offset: 409, length: 0, content: '', WYG: 命秩祖父并父云進加}
   - {type: punctuation, offset: 411, content: (, id: KR4d0243_krp_039-bkkpn1}
+  - {type: voice, offset: 411, length: 18, name: note, id: n1}
   - {type: punctuation, offset: 420, content: /, id: KR4d0243_krp_039-bkkpn2}
   - {type: variant, offset: 420, length: 9, content: 祖父并父云進加命秩, WYG: ''}
   - {type: punctuation, offset: 429, content: ), id: KR4d0243_krp_039-bkkpn3}
@@ -202,6 +203,7 @@ markers:
   - {type: variant, offset: 472, length: 1, content: 類, SBCK: 􅀋}
   - {type: punctuation, offset: 483, content: (, id: KR4d0243_krp_039-bkkpn4}
   - {type: variant, offset: 483, length: 0, content: '', WYG: 祖父母}
+  - {type: voice, offset: 483, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 486, content: /, id: KR4d0243_krp_039-bkkpn5}
   - {type: variant, offset: 486, length: 3, content: 祖父母, WYG: ''}
   - {type: punctuation, offset: 489, content: ), id: KR4d0243_krp_039-bkkpn6}
@@ -211,6 +213,7 @@ markers:
   - {type: line-break, offset: 489, content: '', id: KR4d0243_SBCK_039-2b04}
   - {type: punctuation, offset: 501, content: (, id: KR4d0243_krp_039-bkkpn7}
   - {type: variant, offset: 501, length: 5, content: 云加進恩封, WYG: ''}
+  - {type: voice, offset: 501, length: 11, name: note, id: n3}
   - {type: punctuation, offset: 506, content: /, id: KR4d0243_krp_039-bkkpn8}
   - {type: variant, offset: 511, length: 0, content: '', WYG: 封云加進恩}
   - {type: punctuation, offset: 512, content: ), id: KR4d0243_krp_039-bkkpn9}
@@ -2001,6 +2004,7 @@ markers:
   - {type: line-break, offset: 5559, content: '', id: KR4d0243_SBCK_039-19a03}
   - {type: punctuation, offset: 5572, content: (, id: KR4d0243_krp_039-bkkpn10}
   - {type: variant, offset: 5572, length: 5, content: 云啓封名郡, WYG: ''}
+  - {type: voice, offset: 5572, length: 11, name: note, id: n4}
   - {type: punctuation, offset: 5577, content: /, id: KR4d0243_krp_039-bkkpn11}
   - {type: punctuation, offset: 5583, content: ), id: KR4d0243_krp_039-bkkpn12}
   - {type: variant, offset: 5583, length: 0, content: '', WYG: 云啓封名郡}
@@ -2111,6 +2115,7 @@ markers:
   - {type: substitution, offset: 5907, original: 晩, replacement: 晚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20126}}
   - {type: punctuation, offset: 5909, content: (, id: KR4d0243_krp_039-bkkpn13}
   - {type: variant, offset: 5909, length: 0, content: '', WYG: 使}
+  - {type: voice, offset: 5909, length: 19, name: note, id: n5}
   - {type: punctuation, offset: 5910, content: /, id: KR4d0243_krp_039-bkkpn14}
   - {type: variant, offset: 5910, length: 9, content: 使進官一等是為優恩, WYG: ''}
   - {type: punctuation, offset: 5911, content: ), id: KR4d0243_krp_039-bkkpn15}
@@ -2553,4 +2558,4 @@ markers:
 
       ', id: KR4d0243_krp_039-bkkkrnewl465}
   back: []
-hash: sha256:bcc1fbead92a7fc036c109fd47e15dd30a7a85f8260b8ec1969dd5f4abd8890b
+hash: sha256:fa78ddb9598a278261615405167e8fbbe906d89056eacb7b6a5c620e2194b3ad

@@ -117,6 +117,7 @@ markers:
   - {type: substitution, offset: 328, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: variant, offset: 329, length: 1, content: 解, WYG: 觧}
   - {type: punctuation, offset: 332, content: (, id: KR4d0243_krp_077-bkkpn1}
+  - {type: voice, offset: 332, length: 36, name: note, id: n1}
   - {type: variant, offset: 333, length: 0, content: '', WYG: 是書未詳孰撰攷晁公武讀書志有}
   - {type: punctuation, offset: 347, content: /, id: KR4d0243_krp_077-bkkpn2}
   - {type: variant, offset: 347, length: 15, content: 案是書未詳孰撰攷晁公武讀書志有, WYG: 意名春}
@@ -804,6 +805,7 @@ markers:
   - {type: indent, offset: 2769, content: 　　, id: KR4d0243_krp_077-bkkind13}
   - {type: page-break, offset: 2769, content: '', id: KR4d0243_WYG_077-10a, image: WYG1153/WYG1153-0244c.png}
   - {type: punctuation, offset: 2773, content: (, id: KR4d0243_krp_077-bkkpn7}
+  - {type: voice, offset: 2773, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2774, content: ), id: KR4d0243_krp_077-bkkpn8}
   - {type: 'kr:newline', offset: 2781, content: '
 
@@ -1638,4 +1640,4 @@ markers:
 
       ', id: KR4d0243_krp_077-bkkkrnewl334}
   back: []
-hash: sha256:f71745e50210fe6a37a8a9e468d0abe8402cb2375cb19697859f46c42c6a3611
+hash: sha256:4a9f59131c76eefedaf598e6b22d254efb1fa48a64ce1bf8ee3695e82201b642

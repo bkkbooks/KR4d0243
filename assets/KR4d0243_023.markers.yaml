@@ -302,6 +302,7 @@ markers:
   - {type: indent, offset: 1098, content: 　　, id: KR4d0243_krp_023-bkkind8}
   - {type: punctuation, offset: 1107, content: (, id: KR4d0243_krp_023-bkkpn1}
   - {type: variant, offset: 1107, length: 0, content: '', WYG: 同趙彦逾倪}
+  - {type: voice, offset: 1107, length: 10, name: note, id: n1}
   - {type: punctuation, offset: 1112, content: /, id: KR4d0243_krp_023-bkkpn2}
   - {type: variant, offset: 1112, length: 5, content: 同趙彦逾倪, WYG: ''}
   - {type: substitution, offset: 1114, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
@@ -1076,4 +1077,4 @@ markers:
 
       ', id: KR4d0243_krp_023-bkkkrnewl234}
   back: []
-hash: sha256:af09d8cc16bd3d1df0c73a9af77cd3c47b8bf9abd2f2c2e5bd7f663cc42c064d
+hash: sha256:f7b20515f88de8072e5f186cf18670a1cd5525064d77962879a185b3fbe01e54

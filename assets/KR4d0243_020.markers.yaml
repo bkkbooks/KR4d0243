@@ -31,6 +31,7 @@ markers:
   - {type: indent, offset: 6, content: 　　, id: KR4d0243_krp_020-bkkind6}
   - {type: punctuation, offset: 11, content: (, id: KR4d0243_krp_020-bkkpn1}
   - {type: variant, offset: 11, length: 4, content: 定官輪對, WYG: ''}
+  - {type: voice, offset: 11, length: 9, name: note, id: n1}
   - {type: punctuation, offset: 15, content: /, id: KR4d0243_krp_020-bkkpn2}
   - {type: punctuation, offset: 20, content: ), id: KR4d0243_krp_020-bkkpn3}
   - {type: 'kr:newline', offset: 20, content: '
@@ -766,6 +767,7 @@ markers:
   - {type: indent, offset: 2926, content: 　　, id: KR4d0243_krp_020-bkkind12}
   - {type: punctuation, offset: 2929, content: (, id: KR4d0243_krp_020-bkkpn4}
   - {type: variant, offset: 2929, length: 0, content: '', WYG: 任宗正寺}
+  - {type: voice, offset: 2929, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 2933, content: /, id: KR4d0243_krp_020-bkkpn5}
   - {type: variant, offset: 2933, length: 4, content: 任宗正寺, WYG: ''}
   - {type: punctuation, offset: 2937, content: ), id: KR4d0243_krp_020-bkkpn6}
@@ -1231,6 +1233,7 @@ markers:
   - {type: indent, offset: 4750, content: 　　, id: KR4d0243_krp_020-bkkind16}
   - {type: punctuation, offset: 4755, content: (, id: KR4d0243_krp_020-bkkpn7}
   - {type: variant, offset: 4755, length: 0, content: '', WYG: 任宗正}
+  - {type: voice, offset: 4755, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 4758, content: /, id: KR4d0243_krp_020-bkkpn8}
   - {type: variant, offset: 4758, length: 3, content: 任宗正, WYG: ''}
   - {type: punctuation, offset: 4761, content: ), id: KR4d0243_krp_020-bkkpn9}
@@ -1702,4 +1705,4 @@ markers:
 
       ', id: KR4d0243_krp_020-bkkkrnewl369}
   back: []
-hash: sha256:853fe846030c725ee08be9d95d032288b5a2f1dec4d579480bdcc872f4f3a9f6
+hash: sha256:7cd42e3a77a970ac0406b305d948a750d370f49997ec366fc14e21e03df0a254

@@ -36,6 +36,7 @@ markers:
   - {type: indent, offset: 26, content: 　　, id: KR4d0243_krp_094-bkkind7}
   - {type: punctuation, offset: 31, content: (, id: KR4d0243_krp_094-bkkpn1}
   - {type: variant, offset: 31, length: 0, content: '', WYG: 按前巻忠文耆徳之碑作于此篇後}
+  - {type: voice, offset: 31, length: 27, name: note, id: n1}
   - {type: punctuation, offset: 44, content: /, id: KR4d0243_krp_094-bkkpn2}
   - {type: variant, offset: 44, length: 14, content: 案前巻忠文耆徳之碑作于此篇後, WYG: ''}
   - {type: substitution, offset: 46, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
@@ -2253,4 +2254,4 @@ markers:
 
       ', id: KR4d0243_krp_094-bkkkrnewl485}
   back: []
-hash: sha256:b4666a74410ad06892df7f23378c5f75e43e159696c19644b444de0ce2c1b1be
+hash: sha256:0ae949d838417209213bd07fa370f54e605c38c240282e549a78c18be5df0002

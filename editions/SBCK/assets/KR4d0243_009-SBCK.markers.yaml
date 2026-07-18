@@ -555,6 +555,7 @@ markers:
   - {type: line-break, offset: 1780, content: '', id: KR4d0243_SBCK_009-7a09}
   - {type: indent, offset: 1780, content: 　　, id: KR4d0243_SBCK_009-bkkind35}
   - {type: punctuation, offset: 1786, content: (, id: KR4d0243_SBCK_009-bkkpn1}
+  - {type: voice, offset: 1786, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1788, content: ), id: KR4d0243_SBCK_009-bkkpn2}
   - {type: 'kr:newline', offset: 1790, content: '
 
@@ -847,6 +848,7 @@ markers:
   - {type: line-break, offset: 2767, content: '', id: KR4d0243_SBCK_009-10b08}
   - {type: indent, offset: 2767, content: 　　, id: KR4d0243_SBCK_009-bkkind49}
   - {type: punctuation, offset: 2771, content: (, id: KR4d0243_SBCK_009-bkkpn3}
+  - {type: voice, offset: 2771, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2772, content: ), id: KR4d0243_SBCK_009-bkkpn4}
   - {type: 'kr:newline', offset: 2772, content: '
 
@@ -946,6 +948,7 @@ markers:
   - {type: line-break, offset: 3064, content: '', id: KR4d0243_SBCK_009-12a01}
   - {type: indent, offset: 3064, content: 　　, id: KR4d0243_SBCK_009-bkkind54}
   - {type: punctuation, offset: 3071, content: (, id: KR4d0243_SBCK_009-bkkpn5}
+  - {type: voice, offset: 3071, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3073, content: ), id: KR4d0243_SBCK_009-bkkpn6}
   - {type: 'kr:newline', offset: 3073, content: '
 
@@ -1350,6 +1353,7 @@ markers:
   - {type: line-break, offset: 4259, content: '', id: KR4d0243_SBCK_009-16b07}
   - {type: indent, offset: 4259, content: 　　, id: KR4d0243_SBCK_009-bkkind72}
   - {type: punctuation, offset: 4264, content: (, id: KR4d0243_SBCK_009-bkkpn7}
+  - {type: voice, offset: 4264, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 4266, content: ), id: KR4d0243_SBCK_009-bkkpn8}
   - {type: 'kr:newline', offset: 4266, content: '
 
@@ -1857,4 +1861,4 @@ markers:
 
       ', id: KR4d0243_SBCK_009-bkkkrnewl436}
   back: []
-hash: sha256:d7332405ac03770901412d73a2ac90956d0812d5013813a091d0449a436e51e0
+hash: sha256:5fe1178cc57765eee1409f14c380833eae98b615905ff8b3fceab976557ed236

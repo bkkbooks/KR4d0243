@@ -899,6 +899,7 @@ markers:
   - {type: line-break, offset: 3440, content: '', id: KR4d0243_SBCK_056-10b04}
   - {type: punctuation, offset: 3456, content: (, id: KR4d0243_krp_056-bkkpn1}
   - {type: variant, offset: 3456, length: 0, content: '', WYG: 一本作風}
+  - {type: voice, offset: 3456, length: 14, name: note, id: n1}
   - {type: punctuation, offset: 3461, content: /, id: KR4d0243_krp_056-bkkpn2}
   - {type: variant, offset: 3461, length: 5, content: 案一本作風, WYG: 琴室}
   - {type: page-break, offset: 3461, content: '', id: KR4d0243_WYG_056-12a, image: WYG1153/WYG1153-0028c.png}
@@ -992,6 +993,7 @@ markers:
       ', id: KR4d0243_krp_056-bkkkrnewl211}
   - {type: line-break, offset: 3783, content: '', id: KR4d0243_SBCK_056-11b02}
   - {type: punctuation, offset: 3788, content: (, id: KR4d0243_krp_056-bkkpn7}
+  - {type: voice, offset: 3788, length: 7, name: note, id: n2}
   - {type: variant, offset: 3789, length: 3, content: 俱缺案, WYG: ''}
   - {type: punctuation, offset: 3791, content: /, id: KR4d0243_krp_056-bkkpn8}
   - {type: punctuation, offset: 3795, content: ), id: KR4d0243_krp_056-bkkpn9}
@@ -1012,4 +1014,4 @@ markers:
 
       ', id: KR4d0243_krp_056-bkkkrnewl214}
   back: []
-hash: sha256:e64421f35461470616b8f85a4927bf4a420bcd316a96f93263b35a38c78050eb
+hash: sha256:4884087f17d4c9a7353163d8c686f7a7e0022a353f05b545ee4e2dcb09d41de8

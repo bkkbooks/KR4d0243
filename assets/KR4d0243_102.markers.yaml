@@ -2054,6 +2054,7 @@ markers:
   - {type: line-break, offset: 8023, content: '', id: KR4d0243_SBCK_102-22b04}
   - {type: punctuation, offset: 8040, content: (, id: KR4d0243_krp_102-bkkpn1}
   - {type: variant, offset: 8040, length: 1, content: 龜, SBCK: 􅀛}
+  - {type: voice, offset: 8040, length: 18, name: note, id: n1}
   - {type: variant, offset: 8041, length: 0, content: '', WYG: 子夀彭}
   - {type: punctuation, offset: 8044, content: /, id: KR4d0243_krp_102-bkkpn2}
   - {type: variant, offset: 8044, length: 4, content: 案子夀彭, WYG: 因已見前是}
@@ -2414,4 +2415,4 @@ markers:
 
       ', id: KR4d0243_krp_102-bkkkrnewl510}
   back: []
-hash: sha256:6baed7f199fa979410f733009b1afb9fd3957fe1eb7689f2f7a6e910893be297
+hash: sha256:289f180f49903c2af4170a6a81bdfc453b26e9bda15bf2b3251914afe653ecec

@@ -224,6 +224,7 @@ markers:
   - {type: line-break, offset: 570, content: '', id: KR4d0243_SBCK_034-3a03}
   - {type: punctuation, offset: 589, content: (, id: KR4d0243_krp_034-bkkpn1}
   - {type: variant, offset: 589, length: 0, content: '', WYG: 韋益}
+  - {type: voice, offset: 589, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 591, content: /, id: KR4d0243_krp_034-bkkpn2}
   - {type: variant, offset: 591, length: 2, content: 韋益, WYG: ''}
   - {type: punctuation, offset: 593, content: ), id: KR4d0243_krp_034-bkkpn3}
@@ -2530,4 +2531,4 @@ markers:
 
       ', id: KR4d0243_krp_034-bkkkrnewl504}
   back: []
-hash: sha256:67e633f8c725ea41baf76207b0ffbb1cf779f102234398fdb147d9357b566930
+hash: sha256:226d517c7bb5e41b7c94528c442ccb3580ef5e52692d7c08ff305917c8aac9e7
